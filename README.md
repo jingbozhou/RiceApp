@@ -21,14 +21,12 @@ This tool is particularly suitable for **rice breeding, variety evaluation, and 
 This GitHub repository contains the following key components:
 
 ```text
-                
+RiceApp_v0.01.zip                            
 rice_app.exe                 # Precompiled Windows executable
-Supplementary_Table_S1.xlsx  # Phenotypic dataset used by the application
 README                       # Documentation
 ```
 
 * **rice_app.exe**: Ready-to-use Windows application (no Python installation required)
-* **Supplementary_Table_S1.xlsx**: Original phenotype data table used by the software
 * **rice_app.py**: Full source code for transparency, reproducibility, and further development
 
 ---
