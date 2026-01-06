@@ -27,7 +27,6 @@ README                       # Documentation
 ```
 
 * **rice_app.exe**: Ready-to-use Windows application (no Python installation required)
-* **rice_app.py**: Full source code for transparency, reproducibility, and further development
 
 ---
 
@@ -59,13 +58,9 @@ No programming background is required.
 
 ### 4.2 Running the Software
 
-1. Download `rice_app.zip`
+1. Download `RiceApp_v0.01.zip`
 2. Extract the zip file to any directory
-3. Make sure the following two files are in the **same folder**:
-
-   * `rice_app.exe`
-   * `Supplementary_Table_S1.xlsx`
-4. Double-click **rice_app.exe** to launch the application
+3. Double-click **rice_app.exe** to launch the application
 
 ---
 
@@ -107,44 +102,13 @@ After clicking **Query**, a new result window opens automatically.
 
 ### 6.1 Table 1: Basic Information
 
-This table displays core descriptors for each selected variety, including:
-
-* Variety name
-* Approval number
-* Quality classification
-* Disease resistance traits
-* Stress resistance traits
-* Cluster and breeding category information
-
-
 ---
 
 ### 6.2 Table 2: Phenotypic Trait Comparison
 
-This table provides a detailed comparison of quantitative traits, including:
-
-* Yield and yield components
-* Plant architecture traits
-* Growth period
-* Grain quality traits
-* Processing and appearance-related traits
-
-
 ---
 
-## 7. Dataset Description
-
-The file **Supplementary_Table_S1.xlsx** contains the complete phenotypic dataset used by the software.
-
-* The dataset can be opened, filtered, and analyzed independently
-* Column names in the software are mapped to user-friendly display names
-* The application reads the Excel file dynamically at runtime
-
-Researchers are encouraged to **inspect and reuse the dataset directly** for further analysis.
-
----
-
-## 8. License and Usage
+## 7. License and Usage
 
 This software and dataset are provided for **academic and research use**.
 
@@ -153,7 +117,7 @@ This software and dataset are provided for **academic and research use**.
 
 ---
 
-## 9. Contact
+## 8. Contact
 
 For questions, suggestions, or collaboration inquiries, please contact the repository maintainer.
 
