@@ -30,33 +30,14 @@ README                       # Documentation
 
 ---
 
-## 3. Target Users
+## 3. Quick Start (For End Users)
 
-This software is intended for two main groups:
-
-### 3.1 End Users
-
-* Rice breeders
-* Crop scientists
-* Students and researchers interested in rice phenotypic data
-
-No programming background is required.
-
-### 3.2 Data Users
-
-* Users who want to **inspect, reuse, or analyze the original dataset**
-* The Excel file can be opened independently using any spreadsheet software
-
----
-
-## 4. Quick Start (For End Users)
-
-### 4.1 System Requirements
+### 3.1 System Requirements
 
 * **Operating System**: Windows 10 / Windows 11
 * No Python or additional libraries are required
 
-### 4.2 Running the Software
+### 3.2 Running the Software
 
 1. Download `RiceApp_v0.01.zip`
 2. Extract the zip file to any directory
@@ -64,9 +45,9 @@ No programming background is required.
 
 ---
 
-## 5. User Interface and Operation Guide
+## 4. User Interface and Operation Guide
 
-### 5.1 Main Window
+### 4.1 Main Window
 
 The main interface consists of:
 
@@ -117,9 +98,24 @@ This software and dataset are provided for **academic and research use**.
 
 ---
 
-## 8. Contact
+## Associated Publication
 
-For questions, suggestions, or collaboration inquiries, please contact the repository maintainer.
+This software and the associated phenotypic dataset were developed in support of the following research article:
+
+**Concurrent improvement of yield, quality, resistance traits of rice varieties in China**
+
+---
+
+## Acknowledgments
+
+We would like to thank **Prof. Ji-Hong Huang** for helpful suggestions.
+We gratefully acknowledge the Chinese scientists, breeders, and farmers whose exceptional contributions and dedication have significantly advanced rice breeding in China. Their expertise and long-term efforts have been indispensable in driving agricultural innovation and progress.
+
+---
+
+## Contact
+
+For questions, suggestions, or collaboration inquiries, please contact the **Jing-Bo Zhou** (zhoujingbo@gdaas.cn) or **Chong-Rong Wang** (wangcr1980@163.com) or **Xin-Guang Zhu** (zhuxg@sippe.ac.cn) or  **Yi-Bo Chen** (chenyibo1213@126.com).
 
 ---
 
