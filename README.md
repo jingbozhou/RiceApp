@@ -123,6 +123,3 @@ For questions, suggestions, or collaboration inquiries, please contact the repos
 
 ---
 
-
-
-The phenotypic data used in this study, together with the corresponding windows application, are publicly available on GitHub.
